@@ -10,3 +10,19 @@ Predominantly Poor Air Quality:
 4. Strong Correlations Between Pollutants: The analysis revealed strong correlations between various pollutants, suggesting shared sources or dispersion patterns.
 
 This project provides valuable insights into Delhi's air quality and can be a template for analyzing environmental data from other cities or pollutants.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Seaborn Vs Plotly
+
+Seaborn:
+
+Strengths:Simplicity, integration with statistical analysis, and ease of use for basic plots.
+
+Weaknesses:Limited interactivity and customization for complex visualizations.
+
+Plotly:
+
+Strengths:Interactivity, customization, and support for advanced visualizations like 3D plots.
+
+Weaknesses:Steeper learning curve, complexity for beginners, and potential overkill for simple plots.
