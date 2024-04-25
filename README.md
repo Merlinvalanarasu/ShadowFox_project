@@ -26,3 +26,20 @@ Plotly:
 Strengths:Interactivity, customization, and support for advanced visualizations like 3D plots.
 
 Weaknesses:Steeper learning curve, complexity for beginners, and potential overkill for simple plots.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cricket Fielding Analysis Project
+
+Overview:
+This project, conducted during my internship at ShadowFox as a Data Science intern, focuses on analyzing fielding performances in the RCB vs KKR IPL 2024 match.
+
+Objective:
+The goal is to provide insights into fielding strategies and their impact on the game through meticulous data collection and analysis.
+
+Data Collection:
+Assisted by Kevin, we collected and analyzed fielding events to derive meaningful insights into key moments and player contributions.
+
+Deliverables
+The project includes analysis and performance metrics.
+
