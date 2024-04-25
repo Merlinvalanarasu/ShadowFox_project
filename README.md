@@ -1,4 +1,4 @@
-Air Quality Analysis: Delhi, January 2023
+### Air Quality Analysis: Delhi, January 2023
 
 This project analyzes air quality data for Delhi, India in January 2023. Key findings include:
 
@@ -13,7 +13,7 @@ This project provides valuable insights into Delhi's air quality and can be a te
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-Seaborn Vs Plotly
+### Seaborn Vs Plotly
 
 Seaborn:
 
@@ -29,7 +29,7 @@ Weaknesses:Steeper learning curve, complexity for beginners, and potential overk
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-Cricket Fielding Analysis Project
+### Cricket Fielding Analysis Project
 
 Overview:
 This project, conducted during my internship at ShadowFox as a Data Science intern, focuses on analyzing fielding performances in the RCB vs KKR IPL 2024 match.
